@@ -6,3 +6,4 @@ esphome/esphome:latest
 registry:latest
 rqlove/videolingo:latest
 ollama/ollama:latest
+alturismo/xteve_guide2go:latest
